@@ -1,0 +1,12 @@
+PODS:
+  - SwiftSpinner (1.4.1)
+
+DEPENDENCIES:
+  - SwiftSpinner
+
+SPEC CHECKSUMS:
+  SwiftSpinner: bf7c13332ad008952a09358cadf24a186510ae31
+
+PODFILE CHECKSUM: 611375a7358799dffbff011a8b775aa6b5eb75a8
+
+COCOAPODS: 1.1.1
